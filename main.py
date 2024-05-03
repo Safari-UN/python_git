@@ -3,3 +3,6 @@ def print():
 
 def user_name():
     pass
+
+
+a  = 10
